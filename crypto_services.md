@@ -21,4 +21,4 @@ A curated list of active crypto services with their key details.
 ---
 
 ## 🕵️‍♂️ Disclaimer
-This document is for informational purposes only. Accessing or engaging with cerypto services may be illegal in your jurisdiction. Proceed at your own risk.
+This document is for informational purposes only. Accessing or engaging with crypto services may be illegal in your jurisdiction. Proceed at your own risk.
