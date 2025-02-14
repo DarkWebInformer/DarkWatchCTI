@@ -22,4 +22,4 @@ A curated list of active forums with their key details.
 ---
 
 ## 🕵️‍♂️ Disclaimer
-This document is for informational purposes only. Accessing or engaging with darknet markets may be illegal in your jurisdiction. Proceed at your own risk.
+This document is for informational purposes only. Accessing or engaging with froums may be illegal in your jurisdiction. Proceed at your own risk.
