@@ -1,27 +1,28 @@
-# Darknet Markets Overview
+# Darknet Markets List
 
-A curated list of active darknet markets with their key details.
+## Overview
+This repository contains a list of darknet markets, including their known clearnet and onion addresses.
 
-## 📌 Market Listings
+## Darknet Markets
 
-### [Market Name]
+| Market Name | Clearnet Address | Onion Address | Mirrors |
+|------------|-----------------|--------------|---------|
+| Abacus | [kangaroolinks.to](https://kangaroolinks.to/) | [abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion](http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/) | [1](http://abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion/) [2](http://abacuskzoo7wrfmpqiqscoiljfjap42rzjkfygp5vm3gtlu5tanhbjad.onion/) [3](http://h552xyfqdqblk6rqgjbesa2rpp3m6fjnsjjqayhuofrid2xibwrkbmad.onion/) |
+| Archetyp | [archetyp.cc](https://archetyp.cc) | [4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion](http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion/) | [1](http://zjfsopfrwpvqrhiy73vxb6zq7ksyffkzfyow2gmhgvjsseogy65uguyd.onion/) [2](http://s4wq4oz66bbyvsv2rg3ixwuwzvoxv226bg3563ptchx7xknelhfu3rqd.onion/) [3](http://uyeygtqorgwxmp4bskauanuiofeh7frv35nvmghni5aihf32z27ogqqd.onion/) [4](http://a7mupnlw776xwbt3zcaqrvrje2x44mpmwqszc5zzdseyldpq7ftyzsqd.onion/) |
+| Atlas Market | N/A | [atlasgooo2pie5vyvwbt35zvfsiiy3va7tirvbe5ocvjugq7lggxlmyd.onion](http://atlasgooo2pie5vyvwbt35zvfsiiy3va7tirvbe5ocvjugq7lggxlmyd.onion/) | None |
+| BlackOps | N/A | [blackops3zlgfuq4dg4yrtxoe57u3sxfa34kqzbooqbovutleqhf3zqd.onion](http://blackops3zlgfuq4dg4yrtxoe57u3sxfa34kqzbooqbovutleqhf3zqd.onion/) | [1](http://blackops4zfjqugajzrwokor34sv4sm5sf6pnegaevhgd7k7yt3rkbid.onion/) [2](http://blackops527cggb6ybayggx3bjt24xz32rotdugs6ikejxdiik6dyiid.onion/) [3](http://blackops66p7edjocooiipudvefdhupk27pi4y72iwnbbjvccky646yd.onion/) |
+| CannaExpress | N/A | [cannaexsunpnqjwy4i4bafbqgfsnn7lwnsf6azqgcaoog5d2i3qw2uyd.onion](http://cannaexsunpnqjwy4i4bafbqgfsnn7lwnsf6azqgcaoog5d2i3qw2uyd.onion/) | [1](http://cannaex7sxdz3fy3bhyoaagwr5hhb64oabqllb7fpqvl3qwafmxxdhqd.onion/) |
+| ColombiaConnection | N/A | [eg5pj3r4xhybxgfkjnkhbhwgkuonp5wtla3mbpuzphzk6lxkhftnvuyd.onion](http://eg5pj3r4xhybxgfkjnkhbhwgkuonp5wtla3mbpuzphzk6lxkhftnvuyd.onion/) | [1](http://k66zw4ygbdjzj3zm67ghqlnn6wlxiqmj7i2rfwv4hj2j6q3o4zf66kid.onion/) |
+| Dark Matter | N/A | [darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion](http://darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion/) | [1](http://darkmmro6j5xekpe7jje74maidkkkkw265nngjqxrv4ik7v3aiwdbtad.onion/) [2](http://darkmmk3owyft4zzg3j3t25ri4z5bw7klapq6q3l762kxra72sli4mid.onion/) |
+| Elysium | N/A | [elysiumyeudtha62s4oaowwm7ifmnunz3khs4sllhvinphfm4nirfcqd.onion](http://elysiumyeudtha62s4oaowwm7ifmnunz3khs4sllhvinphfm4nirfcqd.onion/) | [1](http://elysiumutkwscnmdohj23gkcyp3ebrf4iio3sngc5tvcgyfp4nqqmwad.onion/) [2](http://elysiumol473mecbwwjadi5ydlzd4x5fvwsanepazljq3frh57li3pqd.onion/) [3](http://elysiumpir7gp5j7pl3kye36xnj5zig4fe5ng67ji7s5kahj3jiitfqd.onion/) |
+| Euphoria | N/A | [euphorialth2wxqjd2y3mmenyquhs7yj26hvtpbf7zhyfmed7752srid.onion](http://euphorialth2wxqjd2y3mmenyquhs7yj26hvtpbf7zhyfmed7752srid.onion/) | [1](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion/) |
+| Kerberos | N/A | [kerberosemtkeqh7pznmv3negqhudxk5po3awdazx5fqgizttr6xeiid.onion](http://kerberosemtkeqh7pznmv3negqhudxk5po3awdazx5fqgizttr6xeiid.onion/) | [1](http://kerberosfwjuirbckcfspamq3wv3nfk6blusvabbtnsatiezm2uyfzid.onion/) [2](http://kerberosgzhuw5oagmbzjecz5m3c2bmpg3mns6ty7ofwwk67kviswkad.onion/) |
+| MGM Grand | N/A | [ngemgrlhmdqi3zsgscjgjrbwpietxf3kbwjfzrarb4h6f3nimjsiu7yd.onion](http://ngemgrlhmdqi3zsgscjgjrbwpietxf3kbwjfzrarb4h6f3nimjsiu7yd.onion/) | [1](http://ljr4rlkarfsrdxwilfitqhwqllihn6ooy6qfcuiuvtgrujexgxgwb2ad.onion/) [2](http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion/) [3](http://ivam3anqpa6gopk6552c7nycvjlydzoay5eog2tythvuzm7c75xxeaad.onion/) |
+| Nexus | N/A | [nexusabcdkq4pdlubs6wk6ad7pobuupzoomoxi6p7l32ci4vjtb2z7yd.onion](http://nexusabcdkq4pdlubs6wk6ad7pobuupzoomoxi6p7l32ci4vjtb2z7yd.onion/) | [1](http://nexusb2l7hog66bnzz5msrz4m5qxj7jbi7aah3r65uzydy5mew2fu3id.onion/) |
+| Quantum | N/A | [quant6e55gvtl2baqh3rnocxmcujritxjt4yi67q4svkus6ja4dbu6qd.onion](http://quant6e55gvtl2baqh3rnocxmcujritxjt4yi67q4svkus6ja4dbu6qd.onion/) | [1](http://quant52e4qxftvllv25pibrcwc2finxsx6ofzhs56ywzc7rtcrfe64id.onion/) [2](http://quant3m7l2qhdjuul7ueg37sh72awr6yvpvev5fdqtbhbc24omdwwxqd.onion/) |
+| TorZon Market | [trzm.cc](https://trzm.cc/) | [torzon4kv5swfazrziqvel2imhxcckc4otcvopiv5lnxzpqu4v4m5iyd.onion](http://torzon4kv5swfazrziqvel2imhxcckc4otcvopiv5lnxzpqu4v4m5iyd.onion/) | [1](http://q46wfsee26kj6oead5hg643oi363lgqiz3m45b2dwrizefryu2zdfrqd.onion/) [2](http://sglgj2fytneccvyn6n4u3pacj4zhdhscfoptnhxxes3uvljmontru2yd.onion/) [3](http://245mkrsljsgp3fdxp2hjw3pifplluznozd2lcqiojkc3n7zxdbc455id.onion/) |
+| Vortex Market | N/A | [bar47oupp7kn2idtplbngebrtlhurfp5p4irvwngdkj2ynkc46jqihad.onion](http://bar47oupp7kn2idtplbngebrtlhurfp5p4irvwngdkj2ynkc46jqihad.onion/) | [1](http://mq7ozbnrqdjc6cof3yakegs44kmo6vl3ajcyzdeya3zjtmi65jtmwqid.onion/) [2](http://uz5teca64yvzfax2o5eey3v6pkyo6kusajtgkalys7r74ij7pilqj4id.onion/) |
+| We The North | N/A | [hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion](http://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion/) | None |
 
-- **🧅 Onion:** [Onion URL]
-- **🌐 Clearnet:** [Clearnet URL (if applicable)]
-- **🔁 Onion Mirrors:**
-  - [Mirror 1]
-  - [Mirror 2]
-  
-### 🛒 Features
-
-- ✅ **Drugs**: Yes/No
-- ✅ **Fraud**: Yes/No
-- ✅ **Hacking**: Yes/No
-- ✅ **OpSec Tools**: Yes/No
-- ✅ **Monero Accepted**: Yes/No
-- ✅ **Bitcoin Accepted**: Yes/No
-
----
-
-## 🕵️‍♂️ Disclaimer
-This document is for informational purposes only. Accessing or engaging with darknet markets may be illegal in your jurisdiction. Proceed at your own risk.
+## Disclaimer
+This document is for informational purposes only. The inclusion of a darknet market does not endorse or promote illegal activities. Use discretion and follow applicable laws when accessing online resources.
