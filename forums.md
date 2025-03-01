@@ -35,14 +35,14 @@ This repository contains a list of darknet and clearnet forums, including their 
 | DangerZone | [dangerzone.cx](https://dangerzone.cx) | N/A | N/A | Yes | N/A |
 | Dangerous Things | [forum.dangerousthings.com](https://forum.dangerousthings.com/) | N/A | N/A | No | N/A |
 | Dark Club | N/A | [darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion](http://darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion/) | N/A | No | N/A |
-| DarkForums | [darkforums.st](https://darkforums.st) | N/A | [1] [2] | No | N/A |
+| DarkForums | [darkforums.st](https://darkforums.st) | N/A | [1](https://df.hn/) [2](https://df.kiwi/) | No | N/A |
 | DARK2WEB | [gate-2.d2w.site](https://gate-2.d2w.site/) | N/A | N/A | No | N/A |
 | DarkNet Army | [darknetarmy.com](https://darknetarmy.com/) | [darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion](http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/) | N/A | No | N/A |
 | DarkPID | [darkpid.com](https://darkpid.com/) | N/A | N/A | Yes | N/A |
 | Darkpro | [darkpro.net](https://darkpro.net/) | N/A | N/A | No | N/A |
 | Darkzone | [darkzone.uk](https://darkzone.uk/) | N/A | N/A | Yes | N/A |
 | Demon Forums | [demonforums.net](https://demonforums.net/) | N/A | N/A | No | N/A |
-| Dread | N/A | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) | [1] | No | N/A |
+| Dread | N/A | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) | [1](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/) | No | N/A |
 | DubliKat | [at.dublikat.club](https://at.dublikat.club/) | N/A | N/A | No | N/A |
 | Enclave | [www.enclave.cc](https://www.enclave.cc/) | N/A | N/A | No | N/A |
 | Evil Zone | [evil-zone.org](https://evil-zone.org/) | N/A | N/A | No | N/A |
@@ -69,7 +69,7 @@ This repository contains a list of darknet and clearnet forums, including their 
 | Pitch | N/A | [pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion](http://pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion/) | N/A | No | N/A |
 | RAMP | [ramp4u.io](https://ramp4u.io/) | [rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion](http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion/) | N/A | Yes | N/A |
 | RootSploiit | [rootsploit.org](https://rootsploit.org/) | N/A | N/A | No | N/A |
-| RuTOR | N/A | [rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion](http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion/) | [1] [2] | No | N/A |
+| RuTOR | N/A | [rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion](http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion/) | [1](http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion/) [2](http://rutordark63xripv2a3skfrgjonvr3rqawcdpj2zcbw3sigkn6l3xpad.onion/) | No | N/A |
 | Sinisterly | [sinister.ly](https://sinister.ly/) | N/A | N/A | No | N/A |
 | SPYHACKERZ | [spyhackerz.net/forum](https://spyhackerz.net/forum/) | N/A | N/A | No | N/A |
 | SuprBay - The PirateBay Forum | N/A | [suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/) | N/A | No | N/A |
