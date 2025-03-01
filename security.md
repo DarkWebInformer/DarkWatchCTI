@@ -1,22 +1,20 @@
-# Security Overview
+# Security Resources List
 
-A curated list of active security with their key details.
+## Overview
+This repository contains a list of security-related resources, including OpSec guides and security tools available on the clearnet and darknet.
 
-## 📌 Security
+## Security Resources
 
-### [Security Name]
+| Name | Clearnet Address | Onion Address | Type |
+|------|-----------------|---------------|------|
+| Immortality Guide | N/A | [opsec3u4qp6dpif5ckkerqxyrovdyk2zsk3pam5f65nlqor2lurkwzyd.onion](http://opsec3u4qp6dpif5ckkerqxyrovdyk2zsk3pam5f65nlqor2lurkwzyd.onion/) | OpSec |
+| No Trace Project | N/A | [i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/) | OpSec |
+| Qubes OS | [qubes-os.org](https://www.qubes-os.org/) | [qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/) | Security Tools |
+| The OpSec Manual | N/A | [jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion](http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion/) | OpSec |
+| Tor Project | [torproject.org](https://www.torproject.org/) | [2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) | Security Tools |
+| Whonix | [whonix.org](https://www.whonix.org/) | [dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion](http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/) | Security Tools |
 
-- **🧅 Onion:** [Onion URL]
-- **🌐 Clearnet:** [Clearnet URL (if applicable)]
-- **🔁 Onion Mirrors:**
-  - [Mirror 1]
-  - [Mirror 2]
-  
-### 🛒 Features
+*This is not a comprehensive list and may change over time. Some security resources may require special access or credentials.*
 
-- ✅ **Type**: Hosting/VPS
-
----
-
-## 🕵️‍♂️ Disclaimer
-This document is for informational purposes only. Accessing or engaging with some of these may be illegal in your jurisdiction. Proceed at your own risk.
+## Disclaimer
+This document is for informational purposes only. The inclusion of a security resource does not endorse or promote illegal activities. Use discretion and follow applicable laws when accessing online resources.
