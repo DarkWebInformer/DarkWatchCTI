@@ -1,24 +1,13 @@
-# Cyber Threat Intelligence Services Overview
+# Cyber Threat Intelligence Services
 
-A curated list of cyber threate intelligence services with their key details.
+## Legal and Reliable Cyber Threat Intelligence Services
 
-## 📌 Cyber Threat Intelligence Services
+### Dark Web Informer
+- **Website:** [Dark Web Informer](https://darkwebinformer.com)
+- **Description:** A Cyber Threat Intelligence platform that monitors the dark web, deep web, and clearnet for security threats.
 
-### [Cyber Threat Intelligence Services Name]
+### WhiteIntel
+- **Website:** [WhiteIntel](https://whiteintel.io/?utm_source=darkwebinformer.com&utm_medium=referral&utm_campaign=whiteintel)
+- **Description:** A data breach search engine focusing on info-stealers, helping researchers and cybersecurity professionals analyze leaked credentials and other stolen information. *(There is a referral link. WhiteIntel partners with Dark Web Informer.)*
 
-- **🧅 Onion:** [Onion URL]
-- **🌐 Clearnet:** [Clearnet URL (if applicable)]
-- **🔁 Onion Mirrors:**
-  - [Mirror 1]
-  - [Mirror 2]
-  
-### 🛒 Features
-
-- ✅ **Type**: Hosting/VPS
-- ✅ **Bitcoin Accepted**: Yes/No
-- ✅ **Monero Accepted**: Yes/No
-
----
-
-## 🕵️‍♂️ Disclaimer
-This document is for informational purposes only. Accessing or engaging with some of these services may be illegal in your jurisdiction. Proceed at your own risk.
+More services may be added in the future.
