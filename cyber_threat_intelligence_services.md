@@ -78,4 +78,13 @@
 - **Website:** [Silent Push](https://silentpush.com)
 - **Description:** A proactive threat intelligence platform that identifies emerging threats and attack infrastructure.
 
+### Ransomware Live
+- **Website:** [Ransomware Liver](https://www.ransomware.live/)
+- **Description:** Ransomware.live is a platform that tracks and monitors ransomware groups' victims and their activities.
+
+### MISP
+- **Website:** [MISP](https://www.misp-project.org/)
+- **Description:** MISP (Malware Information Sharing Platform & Threat Sharing) is an open-source threat intelligence platform that enables organizations to collect, analyze, and share cyber threat indicators for improved security.
+
+
 More services may be added in the future.
