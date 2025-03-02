@@ -4,14 +4,14 @@
 
 This file serves as a placeholder for tracking Twitter accounts related to cyber threat intelligence and security research. The list may include accounts belonging to researchers, organizations, threat actors, or automated threat feeds.
 
-### Costin Raiu - [@Craiu](https://x.com/craiu)
-### Thorsten E. - [@endi24](https://x.com/endi24)
-### Christopher Peacock- [@SecurePeacock](https://x.com/SecurePeacock)
-### Nextron Research - [@nextronresearch](https://x.com/nextronresearch)
-### Unit 42 - [@Unit42_Intel](https://x.com/Unit42_Intel)
-### LeakIX - [@leak_ix](https://x.com/leak_ix)
-### BleepingComputer - [@BleepinComputer](https://x.com/BleepinComputer)
-### Fox_threatintel - [@banthisguy9349](https://x.com/banthisguy9349)
+#### Costin Raiu - [@Craiu](https://x.com/craiu)
+#### Thorsten E. - [@endi24](https://x.com/endi24)
+#### Christopher Peacock- [@SecurePeacock](https://x.com/SecurePeacock)
+#### Nextron Research - [@nextronresearch](https://x.com/nextronresearch)
+#### Unit 42 - [@Unit42_Intel](https://x.com/Unit42_Intel)
+#### LeakIX - [@leak_ix](https://x.com/leak_ix)
+#### BleepingComputer - [@BleepinComputer](https://x.com/BleepinComputer)
+#### Fox_threatintel - [@banthisguy9349](https://x.com/banthisguy9349)
 
 
 ### How to Contribute
