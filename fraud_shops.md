@@ -13,6 +13,7 @@ This repository contains a list of fraud-related shops, including their addresse
 | BriansClub | [briansclub.to](https://briansclub.to/) | [brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion](http://brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion/) | N/A | Yes | N/A |
 | Darth Maul Shop | [1977.ws](https://1977.ws/) | N/A | N/A | Yes | N/A |
 | FreshTools | [freshtools.to](https://freshtools.to/) | N/A | N/A | Yes | N/A |
+| Hustler's | [hustlers.ly](https://hustlers.ly/) | N/A | N/A | Yes | N/A |
 | MagBO | [magbo.cc](https://magbo.cc/) | N/A | N/A | Yes | N/A |
 | Odin Shop | [odinshop.io](https://odinshop.io/) | N/A | [1](https://odinshop.io/login) | Yes | N/A |
 | Poison | [pois0ncc.ru](https://pois0ncc.ru/) | N/A | N/A | Yes | N/A |
@@ -20,6 +21,7 @@ This repository contains a list of fraud-related shops, including their addresse
 | Rescator | [rescator.cn](https://rescator.cn/) | [rescatorfof3pwgux4olwxxcd22yjtuj72kmdltyr6tsr6jfohpnhead.onion](http://rescatorfof3pwgux4olwxxcd22yjtuj72kmdltyr6tsr6jfohpnhead.onion/) | N/A | Yes | N/A |
 | R O N D A | [rondastore.org](https://www.rondastore.org/) | [r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion](http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion/) | N/A | Yes | N/A |
 | Russian Market | [russianmarket.to](https://russianmarket.to/) | [rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion/) | [1](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion/) [2](https://russianmarket.vc/) | Yes | N/A |
+| Savastan0 | [savastan0.tools](https://savastan0.tools/) | N/A | N/A | Yes | N/A |
 | ShadowCarders | [shadowcarders.com](https://shadowcarders.com/) | N/A | N/A | No | N/A |
 | STYX | [styxmarket.com](https://styxmarket.com/) | N/A | N/A | Yes | N/A |
 | Waus Query | [waus.me](https://waus.me/) | N/A | [1](https://waus.me/) | Yes | N/A |
