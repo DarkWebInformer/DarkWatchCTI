@@ -59,6 +59,7 @@ This repository contains a list of darknet and clearnet forums, including their 
 | Leak.sx | [leak.sx](https://leak.sx/) | N/A | N/A | No | N/A |
 | Leakscorp | [leakscorp.com](https://leakscorp.com/) | N/A | N/A | No | N/A |
 | LeVeL23HackTools | [level23hacktools.com](https://level23hacktools.com/) | N/A | N/A | No | N/A |
+| LinkPass | [linkpass.info](https://linkpass.info/) | N/A | N/A | No | N/A |
 | LoLz.guru | [lolz.guru](https://lolz.guru/) | N/A | N/A | No | N/A |
 | Niflheim World | [niflheim.world](https://niflheim.world/) | N/A | N/A | No | N/A |
 | NoHide | [nohide.space](https://nohide.space/) | N/A | N/A | No | N/A |
