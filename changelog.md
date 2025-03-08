@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.0 - New Additions
+- Added new_markets.md
+
 ## Version 1.1.0 - New Additions
 - Added LinkPass to Forums
 - Added Run Some Wares Ransomware group
