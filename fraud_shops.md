@@ -24,7 +24,6 @@ This repository contains a list of fraud-related shops, including their addresse
 | Savastan0 | [savastan0.tools](https://savastan0.tools/) | N/A | N/A | Yes | N/A |
 | ShadowCarders | [shadowcarders.com](https://shadowcarders.com/) | N/A | N/A | No | N/A |
 | STYX | [styxmarket.com](https://styxmarket.com/) | N/A | N/A | Yes | N/A |
-| Waus Query | [waus.me](https://waus.me/) | N/A | [1](https://waus.me/) | Yes | N/A |
 | xLeet | [xleet.pw](https://xleet.pw/) | [xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion](http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion/) | N/A | Yes | N/A |
 
 *This is not a comprehensive list and may change over time. Some shops may require special access or credentials.*
