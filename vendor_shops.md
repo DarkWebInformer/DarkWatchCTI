@@ -8,7 +8,6 @@ This repository contains a list of vendor shops available on the darknet, includ
 | Vendor Name | Address | Dread Username | Inventory | Markets | Shipping |
 |-------------|---------|---------------|-----------|---------|----------|
 | BestBenzos | [benzosbbvk7gu6taxbjpcpsi3u3dgg3wb3ewwr4jx7tholioxmnwagyd.onion](http://benzosbbvk7gu6taxbjpcpsi3u3dgg3wb3ewwr4jx7tholioxmnwagyd.onion/) | /u/BestBenzos | Drugs | Abacus, Amphora, Archetyp, DarkMater, DrugHub | USA Only |
-| Boomshankar | [boomshacyf5iemdilnwvcvsixcz7bddsy7vihvasm3xfv6garof5nyid.onion](http://boomshacyf5iemdilnwvcvsixcz7bddsy7vihvasm3xfv6garof5nyid.onion/) | /u/boomshankar | Drugs | Pretty Much All of Them | Worldwide Varies |
 | CharlieUK | [charlyuklqm45jjwxwichotzub2ua4uflixvbioleyfuixz57q5lahqd.onion](http://charlyuklqm45jjwxwichotzub2ua4uflixvbioleyfuixz57q5lahqd.onion/) | Unknown | Drugs | Unknown | UK Only |
 | Clockwerk | [mhanh3ymqx4lmghvcq5eyoq3mjj5qzanvt6i7yvwhytsv6xjuymg4fid.onion](http://mhanh3ymqx4lmghvcq5eyoq3mjj5qzanvt6i7yvwhytsv6xjuymg4fid.onion/) | /d/clockwerk | Drugs | Abacus, BlackOps, DrugHub | USA Only |
 | Crypto Pharma | [cryptopharma.org](https://cryptopharma.org/) | Unknown | Drugs | Unknown | UK Only |
