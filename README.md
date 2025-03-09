@@ -21,6 +21,7 @@ While primarily intended for cybersecurity professionals, this repository may al
 - **Discord & Twitter** – Accounts and servers related to cybercriminal activities.
 - **Cyber Threat Intelligence Services** – Legal services that have proven to be reliable in some form of cybersecurity.
 - **Everything Else** – Miscellaneous darknet services and sites.
+- **New Darknet Markets** - New Darknet Markets that have a recent start on the Dark Web.
 
 ## Data Sources
 The information in this repository is aggregated from:
