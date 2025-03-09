@@ -62,7 +62,6 @@ This repository contains a list of ransomware groups, including their known clea
 | Monti | N/A | [mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion](http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion/) | None |
 | MORPHEUS | N/A | [izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion](http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion/) | None |
 | Nitrogen | N/A | [nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion](http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion/) | None |
-| NoName | N/A | [noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion](http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion/) | None |
 | NullBulge | [nullbulge.co](https://nullbulge.co) | N/A | None |
 | Orca | N/A | [orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion/) | None |
 | OX Thief | N/A | [oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd[.]onion) | None |
