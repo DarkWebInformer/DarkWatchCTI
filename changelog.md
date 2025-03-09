@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 1.2.1 - New Additions
+- Removed the following forums for being down for way too long: Dangerzone, DarkPID
+- Removed from Crypto services for allegedly not being safe: FoxMixer
+- Removed Morke from Communication for being down for way too long
+- Removed BlackBasta, NoName, Snatch from Ransomware Gangs for being down for way too long and because of BlackBasta being BlackBasta
+- Removed Waus Query from Fraud Shops for being down for way too long
+- Removed Boomshankar, DrugStar, Epigram from Vendor Shops for being down for way too long
+
 ## Version 1.2.0 - New Additions
 - Added new_markets.md
 
