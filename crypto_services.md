@@ -22,7 +22,6 @@ This repository contains a list of cryptocurrency-related services, including ex
 | Exolix | [exolix.com](https://exolix.com/) | N/A | Exchange | Yes | Private |
 | FairTrade | N/A | [fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion](http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/) | Escrow | No | Private |
 | Feather | [featherwallet.org](https://featherwallet.org/) | [featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion](http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion/) | Wallet | No | Public |
-| FoxMixer | [foxmixer.org](https://www.foxmixer.org/) | [foxmx4a24qawlanoob3dey6owlqwwwdidky3s2jq5ceeqz434h2balqd.onion](http://foxmx4a24qawlanoob3dey6owlqwwwdidky3s2jq5ceeqz434h2balqd.onion/) | Mixer | No | Private |
 | Get Monero | [getmonero.org](https://www.getmonero.org/) | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/) | Wallet | No | Public |
 | Haveno | [haveno.exchange](https://haveno.exchange/) | N/A | Exchange | No | Public |
 | hodlhodl | [hodlhodl.com](https://hodlhodl.com/) | N/A | Exchange | Yes | Private |
