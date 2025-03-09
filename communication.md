@@ -13,7 +13,6 @@ This repository contains a list of communication services, including email provi
 | DNMX | [dnmx.su](https://dnmx.su) | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/) | Email |
 | Mail2Tor | [mail2tor.com](https://mail2tor.com) | [mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) | Email |
 | Matrix | [matrix.org](https://matrix.org) | N/A | Messaging |
-| Morke | [morke.org](http://morke.org/) | [6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion](http://6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion/) | Email |
 | OnionMail | [onionmail.org](https://onionmail.org/) | [pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion](http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion/) | Email |
 | PissMail | [pissmail.com](https://pissmail.com) | [pissmaiamldg5ciulncthgzudvh5d55dismyqf6qdkx372n2b5osefid.onion](http://pissmaiamldg5ciulncthgzudvh5d55dismyqf6qdkx372n2b5osefid.onion/) | Email |
 | Proton | [proton.me](https://proton.me/) | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) | Email |
