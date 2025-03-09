@@ -32,13 +32,11 @@ This repository contains a list of darknet and clearnet forums, including their 
 | CrdPro | [crdpro.cc](https://crdpro.cc/) | N/A | N/A | No | N/A |
 | CryptBB | N/A | [cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion](http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/) | N/A | Yes | N/A |
 | CVV Union | [cvv-union.at](https://cvv-union.at/) | N/A | N/A | Yes | N/A |
-| DangerZone | [dangerzone.cx](https://dangerzone.cx) | N/A | N/A | Yes | N/A |
 | Dangerous Things | [forum.dangerousthings.com](https://forum.dangerousthings.com/) | N/A | N/A | No | N/A |
 | Dark Club | N/A | [darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion](http://darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion/) | N/A | No | N/A |
 | DarkForums | [darkforums.st](https://darkforums.st) | N/A | [1](https://df.hn/) [2](https://df.kiwi/) | No | N/A |
 | DARK2WEB | [gate-2.d2w.site](https://gate-2.d2w.site/) | N/A | N/A | No | N/A |
 | DarkNet Army | [darknetarmy.com](https://darknetarmy.com/) | [darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion](http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/) | N/A | No | N/A |
-| DarkPID | [darkpid.com](https://darkpid.com/) | N/A | N/A | Yes | N/A |
 | Darkpro | [darkpro.net](https://darkpro.net/) | N/A | N/A | No | N/A |
 | Darkzone | [darkzone.uk](https://darkzone.uk/) | N/A | N/A | Yes | N/A |
 | Demon Forums | [demonforums.net](https://demonforums.net/) | N/A | N/A | No | N/A |
