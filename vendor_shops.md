@@ -12,7 +12,6 @@ This repository contains a list of vendor shops available on the darknet, includ
 | Clockwerk | [mhanh3ymqx4lmghvcq5eyoq3mjj5qzanvt6i7yvwhytsv6xjuymg4fid.onion](http://mhanh3ymqx4lmghvcq5eyoq3mjj5qzanvt6i7yvwhytsv6xjuymg4fid.onion/) | /d/clockwerk | Drugs | Abacus, BlackOps, DrugHub | USA Only |
 | Crypto Pharma | [cryptopharma.org](https://cryptopharma.org/) | Unknown | Drugs | Unknown | UK Only |
 | CuckooBird | [cuckooarow5aqnbf3wut4jyde77g5txo6pp7stvlezkykzut45wizdid.onion](http://cuckooarow5aqnbf3wut4jyde77g5txo6pp7stvlezkykzut45wizdid.onion/) | /u/Cuckoobird | Drugs | Abacus, Archetyp | USA Only |
-| Epigram | [epigram4jr2zytslidj47zoy4mz7dp37r5ynegac3h5tiozx5kvg64ad.onion](http://epigram4jr2zytslidj47zoy4mz7dp37r5ynegac3h5tiozx5kvg64ad.onion/) | /u/Epigram | Drugs | Archetyp, DrugHub | USA Only |
 | HeinekenExpress | [heinekendwwwkwev4ltfw7fdt7ytdier7hmdsa2mebrvdx3pw267i5id.onion](http://heinekendwwwkwev4ltfw7fdt7ytdier7hmdsa2mebrvdx3pw267i5id.onion/) | /u/HeinekenExpress | Drugs | Abacus, Archetyp, Dark Matter, DrugHub | Worldwide - Varies |
 | Libre Shop | [on6yxldxgmvjfx56aawf4wx32ivabkml7ij4hlagl5nw3urvnwdkkaad.onion](http://on6yxldxgmvjfx56aawf4wx32ivabkml7ij4hlagl5nw3urvnwdkkaad.onion/) | Unknown | Varies | Unknown | Worldwide |
 | NarcoPolo | [gpgb4vmgfq2l6evpnmhchcv2vgrcssr7lbryucn4g3n22jzxkpnv3qid.onion](http://gpgb4vmgfq2l6evpnmhchcv2vgrcssr7lbryucn4g3n22jzxkpnv3qid.onion/) | Unknown | Drugs | Unknown | Europe |
