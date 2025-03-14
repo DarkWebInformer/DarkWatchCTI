@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.2 - New Ransomware Groups
+- Added Secp0, Skira, Weyhro, Mamona RIP, NightSpire
+
 ## Version 1.2.1 - New Additions
 - Removed the following forums for being down for way too long: Dangerzone, DarkPID
 - Removed from Crypto services for allegedly not being safe: FoxMixer
