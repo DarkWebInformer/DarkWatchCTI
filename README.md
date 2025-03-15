@@ -49,7 +49,7 @@ If you would like to contribute to this repository, please send relevant informa
 We do not accept pull requests or open issues on this repository to maintain operational security.
 
 ## Contact
-For more Cyber Threat Intelligence, visit [Dark Web Informer](https://darkwebinformer.com).
+For more Cyber Threat Intelligence, visit [Dark Web Informer](https://darkwebinformer.com) or follow me on X: [Dark Web Informer](https://x.com/DarkWebInformer).
 
 ## Donations
 If you find this resource valuable and would like to support further research, donations can be made at [darkwebinformer.com/donations](https://darkwebinformer.com/donations).
