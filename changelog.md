@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.3 - New Ransomware Groups
+- Removed Miracle Market and Phatasma Market from New Markets due to IP leaks
+
 ## Version 1.2.2 - New Ransomware Groups
 - Added Secp0, Skira, Weyhro, Mamona RIP, NightSpire
 
