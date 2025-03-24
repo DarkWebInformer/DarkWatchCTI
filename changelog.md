@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.4 - New Ransomware Groups
+- Removed Warpzone from New Markets due to IP leak
+
 ## Version 1.2.3 - New Ransomware Groups
 - Removed Miracle Market and Phatasma Market from New Markets due to IP leaks
 
