@@ -16,7 +16,6 @@ This repository contains a list of new darknet markets, including their known cl
 | Salem Market   | N/A                     | [v2e3ckbwdev4fx7kmla7pyqwjvt23yb6tfvsgoycudygfn77pumpywid.onion](http://v2e3ckbwdev4fx7kmla7pyqwjvt23yb6tfvsgoycudygfn77pumpywid.onion/) | [1](http://zmwpwdfy4tqpw3arpkrzaiwzjn5aqeivy5lk66c3zdeistohl6ut2ead.onion/) |
 | Shadow X       | [shadowx.cc](https://shadowx.cc/) | [shadowxn3o3kvvkbjyaoe33emqxrtadijp7xybizbht2thb6x5dvfhad.onion](http://shadowxn3o3kvvkbjyaoe33emqxrtadijp7xybizbht2thb6x5dvfhad.onion/) | None    |
 | Thor           | N/A                     | [vck75uosucwzxgyp6yofroujgtasyuubkem7jh65r5ha5fmb6ztv6qqd.onion](http://vck75uosucwzxgyp6yofroujgtasyuubkem7jh65r5ha5fmb6ztv6qqd.onion/) | None    |
-| Warpzone       | N/A                     | [warpzonvz5ldennsbrkymt5d66ab5i25puaghgouw3fekcer2bxukgid.onion](http://warpzonvz5ldennsbrkymt5d66ab5i25puaghgouw3fekcer2bxukgid.onion/) | None    |
 
 ## Disclaimer
 This document is for informational purposes only. The inclusion of a darknet market does not endorse or promote illegal activities. Use discretion and follow applicable laws when accessing online resources.
