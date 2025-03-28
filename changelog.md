@@ -1,9 +1,12 @@
 # Changelog
 
-## Version 1.2.4 - New Ransomware Groups
+## Version 1.2.4 - New Additions to Ransomware group
+- Added Arkana, Frag, Ralord
+
+## Version 1.2.4 - Removed Darknet Market
 - Removed Warpzone from New Markets due to IP leak
 
-## Version 1.2.3 - New Ransomware Groups
+## Version 1.2.3 - Removed Darknet Market
 - Removed Miracle Market and Phatasma Market from New Markets due to IP leaks
 
 ## Version 1.2.2 - New Ransomware Groups
