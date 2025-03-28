@@ -16,6 +16,7 @@ This repository contains a list of ransomware groups, including their known clea
 | Apos Security | N/A | [yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion](http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion/) | None |
 | Arcusmedia | N/A | [arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion](http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/) | None |
 | Argonauts Group | N/A | [jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion](http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion/) | None |
+| Arkana | N/A | [arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion](http://arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion/) | None |
 | BASHE | N/A | [basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion](http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion/) | [1](http://cbasherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/) [2](http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion/) [3](http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion/) [4](http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion/) |
 | BianLian | N/A | [bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion](http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion/) | [1](http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion/) |
 | BlackByte | N/A | [53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion](http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion/) | [1](http://tj3ty2q5jm5au3bmd2embtjscd3qjt7nfio2o7cr6moyy5kgil5pieqd.onion/) |
@@ -38,6 +39,7 @@ This repository contains a list of ransomware groups, including their known clea
 | Embargo | N/A | [embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion](http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion/) | None |
 | Everest | N/A | [ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/) | None |
 | Flocker | N/A | [flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion](http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion/) | None |
+| Frag | N/A | [34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion](http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion/) | None |
 | FSociety | N/A | [flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion](http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion/) | None |
 | Fog | N/A | [xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion](http://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion/) | [1](http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/) |
 | Funksec | N/A | [funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion](http://funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion/) | [1](http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/) |
@@ -76,6 +78,7 @@ This repository contains a list of ransomware groups, including their known clea
 | RansomHouse | N/A | [zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion](http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/) | None |
 | RansomHub | N/A | [ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion](http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/) | None |
 | RA World | N/A | [raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion](http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion/) | None |
+| Ralord | N/A | [ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion](http://ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion/) | None |
 | Rhysida | N/A | [rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion](http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/) | [1](http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion/) |
 | Risen | N/A | [o6pi3u67zyag73ligtsupin5rjkxpfrbofwoxnhimpgpfttxqu7lsuyd.onion](http://o6pi3u67zyag73ligtsupin5rjkxpfrbofwoxnhimpgpfttxqu7lsuyd.onion/) | None |
 | Run Some Wares | N/A | [rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion](http://rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion/) | None | [1](rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion) (http://nidzkoszg57upoq7wcalm2xxeh4i6uumh36axsnqnj3i7lep5uhkehyd.onion/)
