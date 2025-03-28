@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.2.4 - New Additions to Ransomware group
+## Version 1.2.5 - New Additions to Ransomware group
 - Added Arkana, Frag, Ralord
 
 ## Version 1.2.4 - Removed Darknet Market
