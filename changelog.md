@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.6 - New Additions to Ransomware group
+- Added Chaos
+
 ## Version 1.2.5 - New Additions to Ransomware group
 - Added Arkana, Frag, Ralord
 
