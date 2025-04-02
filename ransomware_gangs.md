@@ -26,6 +26,7 @@ This repository contains a list of ransomware groups, including their known clea
 | Bluebox | N/A | [zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion/) | None |
 | BrainCipher | N/A | [vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion](http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/) | None |
 | Cactus | N/A | [cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion](http://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion/) | None |
+| Chaos | N/A | [hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion](http:/hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/) | None |
 | Chort | N/A | [hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion](http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion/) | None |
 | Cicada3301 | N/A | [cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion](http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/) | None |
 | Cl0p | N/A | [santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion](http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/) | None |
