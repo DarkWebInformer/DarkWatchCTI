@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.7 - New Additions to Ransomware group
+- Updated RansomHub DLS
+
 ## Version 1.2.6 - New Additions to Ransomware group
 - Added Chaos
 
