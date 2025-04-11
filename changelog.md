@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2.8 - New Additions to Ransomware group
+- Updated RansomHub DLS and added BERT, CRYPTO24, and Devman
+
 ## Version 1.2.7 - New Additions to Ransomware group
 - Updated RansomHub DLS
 
