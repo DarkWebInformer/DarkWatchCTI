@@ -18,7 +18,6 @@ This repository contains a list of cryptocurrency-related services, including ex
 | CryptoMixer | [cryptomixer.io](https://cryptomixer.io/) | N/A | Swapper | No | Private |
 | Crypton Exchange | [crp.is](https://crp.is/) | N/A | Exchange | Yes | Private |
 | Electrum | [electrum.org](https://electrum.org/) | N/A | Wallet | No | Public |
-| eXch | [exch.cx](https://exch.cx/) | [hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion](http://hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion/) | Exchange | No | Private |
 | Exolix | [exolix.com](https://exolix.com/) | N/A | Exchange | Yes | Private |
 | FairTrade | N/A | [fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion](http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/) | Escrow | No | Private |
 | Feather | [featherwallet.org](https://featherwallet.org/) | [featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion](http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion/) | Wallet | No | Public |
