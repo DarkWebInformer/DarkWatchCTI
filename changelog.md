@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.3.0 - Removal of Vendor Shop
+- Removed Pygmalion; Seized
+
 ## Version 1.2.9 - New Additions to Ransomware group
 - Removed eXch from Crypto Services; Shut down
 
