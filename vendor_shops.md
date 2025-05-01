@@ -17,7 +17,6 @@ This repository contains a list of vendor shops available on the darknet, includ
 | NarcoPolo | [gpgb4vmgfq2l6evpnmhchcv2vgrcssr7lbryucn4g3n22jzxkpnv3qid.onion](http://gpgb4vmgfq2l6evpnmhchcv2vgrcssr7lbryucn4g3n22jzxkpnv3qid.onion/) | Unknown | Drugs | Unknown | Europe |
 | NarcoticsWorldwide | Unknown | /u/NarcoticsWorldwide | Drugs | Abacus, Archetyp | Worldwide - Varies |
 | NextGeneration | [nextgenuxioipgxqs5ibsg6aofnwjflentjn4pmqp25h3guc6dwnanyd.onion](http://nextgenuxioipgxqs5ibsg6aofnwjflentjn4pmqp25h3guc6dwnanyd.onion/) | /u/NextGeneration | Drugs | Archetyp | Europe |
-| Pygmalion's Refuge | [7q25kbq2mm23qmyoiywzh5q4udmkhbbk736j3iylvfezgslhxac5qiid.onion](http://7q25kbq2mm23qmyoiywzh5q4udmkhbbk736j3iylvfezgslhxac5qiid.onion/) | /u/Pygmalion | Drugs | Abacus, Archetyp, DrugHub, TorZon | Worldwide |
 | r0cc0's store | [roccoypcwck4hl46mbdg42kngvfejtzui2pp64s4vqz7vl33nhsgw4id.onion](http://roccoypcwck4hl46mbdg42kngvfejtzui2pp64s4vqz7vl33nhsgw4id.onion/) | /u/r0cc0 | Drugs | Archetyp | Mostly Europe |
 | ScoobieSnacks | [scoobiestrope76aoblyywalxk3iolflghuhjjtvc2diecuuq5oprtqd.onion](http://scoobiestrope76aoblyywalxk3iolflghuhjjtvc2diecuuq5oprtqd.onion/) | /u/scoobiesnacks | Drugs | Archetyp, DrugHub | USA Only |
 | SmokersCo | [cxhxevlonvjmzxma67rizsjvddicj7hqvjqk5a5wfu3373oqb2zafwyd.onion](http://cxhxevlonvjmzxma67rizsjvddicj7hqvjqk5a5wfu3373oqb2zafwyd.onion/) | Unknown | Drugs | Unknown | Europe Only |
