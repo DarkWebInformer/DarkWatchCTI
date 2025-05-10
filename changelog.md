@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.3.2 - Archetyp Update
+- Added new clearnet domain for Archetyp
+
 ## Version 1.3.1 - New LeakBase domain
 - Added new LeakBase domain to forums
 
