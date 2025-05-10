@@ -53,7 +53,7 @@ This repository contains a list of darknet and clearnet forums, including their 
 | In4.Bz | [in4.bz](https://in4.bz/) | N/A | N/A | No | N/A |
 | Lampeduza | [lampeduza.la](https://lampeduza.la/) | N/A | N/A | No | N/A |
 | LeadLab | [leadlab.top](https://leadlab.top/) | N/A | N/A | No | N/A |
-| LeakBase | [leakbase.io](https://leakbase.io/) | N/A | N/A | No | N/A |
+| LeakBase | [leakbase.la](https://leakbase.la/) | N/A | N/A | No | N/A |
 | Leak.sx | [leak.sx](https://leak.sx/) | N/A | N/A | No | N/A |
 | Leakscorp | [leakscorp.com](https://leakscorp.com/) | N/A | N/A | No | N/A |
 | LeVeL23HackTools | [level23hacktools.com](https://level23hacktools.com/) | N/A | N/A | No | N/A |
