@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.3.1 - New LeakBase domain
+- Added new LeakBase domain to forums
+
 ## Version 1.3.0 - Removal of Vendor Shop
 - Removed Pygmalion; Seized
 
