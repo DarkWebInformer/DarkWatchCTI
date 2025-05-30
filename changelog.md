@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.3.3 - New Ransomware Groups Added
+- Added Silent, Gunra, SatanLock, J group, IMN Crew, Dire Wolf, DATACARRY
+
 ## Version 1.3.2 - Archetyp Update
 - Added new clearnet domain for Archetyp
 
