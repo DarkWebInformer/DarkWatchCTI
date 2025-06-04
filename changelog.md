@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.3.4 - BidenCash Seized
+- Added a note next to BidenCash that it has been sized
+
 ## Version 1.3.3 - New Ransomware Groups Added
 - Added Silent, Gunra, SatanLock, J group, IMN Crew, Dire Wolf, DATACARRY
 
